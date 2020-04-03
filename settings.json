@@ -1,1 +1,61 @@
+{
+"selectors":
+{
+	"INSTAGRAM_LOGIN" : "https://www.instagram.com/accounts/login/?hl=it&source=auth_switcher",
+	"INSTAGRAM_BASE"  : "https://www.instagram.com",
+	
+	"USERNAME_INPUT" : "input[name='username']",
+	"LOGIN_BUTTON" : "button[type='submit']",
+	"ERROR_PAGE" : ".error-container.-cx-PRIVATE-ErrorPage__errorContainer.-cx-PRIVATE-ErrorPage__errorContainer__",
+	"POST" :"._9AhH0",
+	"LIST_POSTS_BUTTON" : "._9VEo1.T-jvg",
 
+	"PRIVATE_PROFILE" : ".rkEop",
+	"NO_POST_PROFILE" : ".FuWoR.-wdIA.A2kdl",
+
+	"OPENED_POST" : ".eo2As",
+	"LIKE_BUTTON" : ".fr66n button",
+	"COMMENT_BUTTON" : "._15y0l button",
+	"COMMENT_TEXTAREA" : ".Ypffh",
+	"SUBMIT_COMMENT" : "button[type='submit']",
+	"CLOSE_POST_BUTTON" : ".ckWGn",
+	"PROFILE_STATS": ".g47SY.lOXF2",
+	"STAT_POSTS": 0,
+	"STAT_FOLLOWERS": 1,
+	"STAT_FOLLOWING": 2,
+
+	"PROFILE_HEADER" : ".HVbuG",
+	"FOLLOW_BUTTON" : "._5f5mN.jIbKX._6VtSN.yZn4P",
+	"FOLLOW_BUTTON_1" : ".ffKix.sqdOP.L3NKy._4pI4F.y3zKF",
+		
+	"BLOCKED_ACTIONS" : ".piCib",
+	
+	"UNFOLLOW_NAME_DIV" : "d7ByH",
+	"UNFOLLOW_BUTTON" : ".sqdOP.L3NKy._8A5w5",
+	"CONFIRM_UNFOLLOW_BUTTON" : ".aOOlW.-Cab_",
+
+	"FOLLOWING_PROFILES_LIST_TO_SCROLL" : ".isgrP",
+	"FOLLOWING_PROFILES_LIST_TO_GET_HEIGHT" : ".PZuss",
+
+	"MOST_POPULAR_POSTS" : ".EZdmt",
+	"POPULAR_POST" : ".v1Nh3.kIKUG._bz0w",
+	"POPULAR_POST_IMAGE" :".FFVAD",
+	"POPULAR_POST_OWNER" : ".e1e1d a",
+	"POPULAR_POST_CAROUSEL_BUTTON" : ".u7YqG .mediatypesSpriteCarousel__filled__32.u-__7",
+	"POPULAR_POST_CAROUSEL_IMAGES" : ".KL4Bh img",
+	"POPULAR_POST_VIDEO_BUTTON" : ".u7YqG .mediatypesSpriteVideo__filled__32.u-__7",
+	"POPULAR_POST_VIDEO_POSTER" : "._5wCQW video",
+	"POPULAR_POST_VIDEO_LINK" : "._5wCQW video",
+
+	"NEW_POST" : "div[data-testid='new-post-button']",
+	"LOAD_IMAGE" : ".UP43G",
+	"CANNOT_LOAD_STORY" : ".gxNyb",
+
+	"UPLOAD_POST_DATAS" : ".A9bvI",
+	"CAPTION_SECTION" : "section:nth-of-type(1)",
+	"CAPTION_TEXTAREA" : "._472V_",
+
+	"POST_TAGS_SECTION" : "section:nth-of-type(3)",
+	"POST_TAGS_BUTTON" : "._2OfRz"
+}
+}
