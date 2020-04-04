@@ -60,6 +60,6 @@
 },
 "pushNotification": {
 	"id": 1,
-	"notify": "hey"
+	"notify": "Welcome to Wiinsta, Take a look to visit the documentation page <strong>https://github.com/Linch1/insta-bot-electron/blob/master/Documentation.md</strong> for know more about it. Enjoy!"
 }
 }
