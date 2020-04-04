@@ -57,5 +57,9 @@
 
 	"POST_TAGS_SECTION" : "section:nth-of-type(3)",
 	"POST_TAGS_BUTTON" : "._2OfRz"
+},
+"pushNotification": {
+	"id": 1,
+	"notify": "hey"
 }
 }
