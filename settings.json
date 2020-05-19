@@ -63,7 +63,7 @@
 	"notify": "Welcome to Wiinsta! <br> Take a look to the project home page <strong>https://github.com/Linch1/insta-bot-electron/blob/master/README.md</strong> for know more about it ( here you will find the <strong> guide for add your ig accounts to the whitelist </strong> and all the docs ) <br> Enjoy!"
 },
 "forceUpdate": {
-	"status": true,
+	"status": false,
 	"version": "0.0.5"
 }
 }
