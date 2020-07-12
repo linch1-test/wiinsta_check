@@ -59,8 +59,8 @@
 	"POST_TAGS_BUTTON" : "._2OfRz"
 },
 "pushNotification": {
-	"id": -1,
-	"notify": ""
+	"id": 0,
+	"notify": "hye sonbo una notifica"
 },
 "forceUpdate": {
 	"status": false,
