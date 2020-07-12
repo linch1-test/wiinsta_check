@@ -64,7 +64,7 @@
 },
 "forceUpdate": {
 	"status": false,
-	"version": "0.0.5"
+	"version": "0.0.7"
 },
 "welcome-message": "Welcome to Wiinsta! <br> Take a look to the project home page <strong>https://github.com/Linch1/wiinsta-instagram-manager</strong> for know more about it ( here you will find the some <strong> usefull informations </strong> and all the docs ) <br> Enjoy!"
 }
