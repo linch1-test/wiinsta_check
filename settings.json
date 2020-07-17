@@ -56,7 +56,18 @@
 	"CAPTION_TEXTAREA" : "._472V_",
 
 	"POST_TAGS_SECTION" : "section:nth-of-type(3)",
-	"POST_TAGS_BUTTON" : "._2OfRz"
+	"POST_TAGS_BUTTON" : "._2OfRz",
+
+	"INSTAGRAM_DM": "https://www.instagram.com/direct/inbox/",
+	"POPUP_DM_PAGE": ".sqdOP.yWX7d.y3zKF.cB_4K",
+	"SEARCH_BUTTON_DM_PAGE": ".wpO6b.ZQScA",
+	"SEARCH_TEXT_FIELD_NAME": "queryBox",
+	"FOUND_USER": ".-qQT3",
+	"OPEN_CHAT_BUTTON": ".sqdOP.yWX7d.y3zKF.cB_4K",
+	"SUBMIT_BUTTON_DM": ".X3a-9 button"
+
+
+
 },
 "pushNotification": {
 	"id": -1,
