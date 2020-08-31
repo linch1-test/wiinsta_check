@@ -70,8 +70,8 @@
 
 },
 "pushNotification": {
-	"id": -1,
-	"notify": ""
+	"id": 1,
+	"notify": "Some updates were pushed in the main repo, soon the executables will be published as V.0.0.9"
 },
 "forceUpdate": {
 	"status": false,
