@@ -70,8 +70,8 @@
 
 },
 "pushNotification": {
-	"id": -1,
-	"notify": ""
+	"id": 3,
+	"notify": "V.0.1.0 is now online! you can download the app from the releases link: $/link/https://github.com/Linch1/wiinsta-instagram-manager/releases/tag/V.0.1.0$/link/"
 },
 "forceUpdate": {
 	"status": false,
