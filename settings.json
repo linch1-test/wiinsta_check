@@ -26,7 +26,7 @@
 
 	"PROFILE_HEADER" : ".HVbuG",
 	"FOLLOW_BUTTON" : "._5f5mN.jIbKX._6VtSN.yZn4P",
-	"FOLLOW_BUTTON_1" : ".ffKix.sqdOP.L3NKy._4pI4F.y3zKF",
+	"FOLLOW_BUTTON_1" : ".sqdOP.L3NKy.y3zKF",
 		
 	"BLOCKED_ACTIONS" : ".piCib",
 	
@@ -77,5 +77,5 @@
 	"status": false,
 	"version": "0.0.7"
 },
-"welcome-message": "Welcome to Wiinsta! <br> Take a look to the project home page <strong>https://github.com/Linch1/wiinsta-instagram-manager</strong> for know more about it ( here you will find the some <strong> usefull informations </strong> and all the docs ) <br> Enjoy!"
+"welcome-message": "Welcome to Wiinsta! <br> Take a look to the project home page $/link/https://github.com/Linch1/wiinsta-instagram-manager$/link/ for know more about it ( here you will find the some <strong> usefull informations </strong> and all the docs ) <br> Enjoy!"
 }
