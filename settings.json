@@ -4,6 +4,7 @@
 	"INSTAGRAM_LOGIN" : "https://www.instagram.com/accounts/login/?hl=it&source=auth_switcher",
 	"INSTAGRAM_BASE"  : "https://www.instagram.com",
 	
+	"USERNAME_INPUT" : ".aOOlW.bIiDR",
 	"USERNAME_INPUT" : "input[name='username']",
 	"LOGIN_BUTTON" : "button[type='submit']",
 	"ERROR_PAGE" : ".error-container.-cx-PRIVATE-ErrorPage__errorContainer.-cx-PRIVATE-ErrorPage__errorContainer__",
