@@ -71,12 +71,12 @@
 
 },
 "pushNotification": {
-	"id": 3,
-	"notify": "V.0.1.0 is now online! you can download the app from the releases link: $/link/https://github.com/Linch1/wiinsta-instagram-manager/releases/tag/V.0.1.0$/link/"
+	"id": 4,
+	"notify": "V.0.1.2 is now online! you can download the app from the releases link: $/link/https://github.com/Linch1/wiinsta-instagram-manager/releases/tag/V.0.1.2$/link/"
 },
 "forceUpdate": {
 	"status": false,
-	"version": "0.0.7"
+	"version": "0.1.2"
 },
 "welcome-message": "Welcome to Wiinsta! <br> Take a look to the project home page $/link/https://github.com/Linch1/wiinsta-instagram-manager$/link/ for know more about it ( here you will find the some <strong> usefull informations </strong> and all the docs ) <br> Enjoy!"
 }
